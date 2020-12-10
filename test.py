@@ -1,6 +1,6 @@
 import unittest
 from main import add,subtract,multiply
-#comment tests oksss
+#comment tests okssss
 class TestClass(unittest.TestCase):
 	def test_add(self):
 	    x = 5
